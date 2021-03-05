@@ -1,0 +1,29 @@
+{
+  "name": "think-react-form",
+  "version": "1.0.7",
+  "description": "Generate Form react + material ui - reactjs",
+  "main": "./lib/index.js",
+  "bin": {
+    "think-generate": "bin/module.js"
+  },
+  "preferGlobal": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusc0/think-react-form.git"
+  },
+  "keywords": [
+    "think",
+    "react",
+    "form",
+    "thinkseg"
+  ],
+  "author": "Vinicius Oliveira <v.cezar21@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusc0/think-react-form/issues"
+  },
+  "homepage": "https://github.com/viniciusc0/think-react-form#readme"
+}
