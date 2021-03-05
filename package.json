@@ -1,6 +1,6 @@
 {
   "name": "think-react-form",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "description": "Generate Form react + material ui - reactjs",
   "main": "./lib/index.js",
   "bin": {
